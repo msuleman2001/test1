@@ -6,6 +6,7 @@ from django.http import HttpResponse
 # Create your views here.
 #change after new project test1 in devops
 #more changes added to repo
+#change by github
 def fun1(request):
     a = "abc"
     b = "xyz"
