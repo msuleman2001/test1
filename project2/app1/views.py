@@ -4,6 +4,7 @@ from django.http import HttpResponse
 #change on git
 #change after add az url
 # Create your views here.
+#change after new project test1 in devops
 def fun1(request):
     a = "abc"
     b = "xyz"
