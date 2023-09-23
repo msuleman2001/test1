@@ -7,6 +7,7 @@ from django.http import HttpResponse
 #change after new project test1 in devops
 #more changes added to repo
 #change by github
+#change by devops
 def fun1(request):
     a = "abc"
     b = "xyz"
